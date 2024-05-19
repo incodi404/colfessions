@@ -64,5 +64,5 @@ New Features: Adding new functionalities as per user feedback.
 If you have any questions or suggestions, feel free to reach out!
 
 Email: chowdhurydipankar1106@gmail.com
-LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/dipankar-chowdhury/)
-GitHub: [Your GitHub](https://github.com/incodi404)
+LinkedIn: [My LinkedIn](https://www.linkedin.com/in/dipankar-chowdhury/)
+GitHub: [My GitHub](https://github.com/incodi404)
