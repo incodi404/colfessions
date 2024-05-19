@@ -10,7 +10,7 @@ Welcome to **UniThoughts**, my first MERN Stack mega project and also my final y
 ## ✨ Features
 
 - **Anonymous Posting**: Share your thoughts without revealing your identity.
-- **CRUD Operations**: Create, Read, Update, and Delete posts.
+- **CRUD Operations**: Create, Read, Update, and Delete posts and comments.
 - **Engagement**: Like and comment on other users' posts.
 - **Personalized Newsfeed**: Follow universities/colleges to see relevant posts.
 - **Security Focused**: JWT-based email verification for authentication.
