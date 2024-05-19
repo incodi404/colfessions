@@ -1,6 +1,6 @@
 # 🎓 Colfessions - Anonymous Student Social Media App
 
-Welcome to **Colfessions**, my first MERN Stack mega project and also my final year project. UniThoughts is a social media platform designed for students to share their thoughts and experiences anonymously. The platform allows users to post, update, and delete posts, as well as like and comment on posts made by others. The posts are grouped by the university or college name, and users will only see posts from the institutions they follow, ensuring personalized newsfeeds for everyone.
+Welcome to **Colfessions**, my first MERN Stack mega project and also my final year project. Colfessions is a social media platform designed for students to share their thoughts and experiences anonymously. The platform allows users to post, update, and delete posts, as well as like and comment on posts made by others. The posts are grouped by the university or college name, and users will only see posts from the institutions they follow, ensuring personalized newsfeeds for everyone.
 
 ## 🚀 Project Status
 
